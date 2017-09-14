@@ -10,11 +10,12 @@
     float: left;
     margin-right: -90px;
     width: 80px;
+    height: 70px;
 }
 
 .balloonR .faceiconR img{
-    width: 90%;
-    height: auto;
+    width: 70px;
+    height: 70px;
     border: solid 3px;
     border-radius: 50%;
     margin:4px 0px;
@@ -57,11 +58,12 @@
     float: right;
     margin-left: -90px;
     width: 80px;
+    height: 70px;
 }
 
 .balloonL .faceiconL img{
-    width: 90%;
-    height: auto;
+    width: 70px;
+    height: 70px;
     border: solid 3px;
     border-radius: 50%;
     margin:4px 0px;
@@ -120,5 +122,5 @@ div.linktitle{
 
 /* 上に合わせて引用の見栄え調整 */
 blockquote {
-  margin:15px 0 0 0
+    margin:15px 0 15px 0;
 }
